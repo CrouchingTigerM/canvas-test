@@ -16,5 +16,5 @@ canvas or other demo
 
 
 把demo下载到本地查看效果：<br>
-打开canvas-test目录，执行app.js文件：node app.js<br>
+打开canvas-test目录，先安装依赖：npm install  ， 然后执行app.js文件：node app.js<br>
 然后访问[http://127.0.0.1:3030/menu.html](http://127.0.0.1:3030/menu.html)即可
